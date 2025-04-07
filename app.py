@@ -30,12 +30,14 @@ def webhook():
 
 def responder_con_kai(mensaje):
     try:
+        system_prompt = f"""Responde únicamente con base en la siguiente información interna de procesos de la empresa:
+
+{KNOWLEDGE_BASE}
+"""
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": "Responde únicamente con base en la siguiente información interna de procesos de la empresa:
-
-" + KNOWLEDGE_BASE},
+                {"role": "system", "content": system_prompt},
                 {"role": "user", "content": mensaje}
             ]
         )
