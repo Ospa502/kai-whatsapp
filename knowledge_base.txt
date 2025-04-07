@@ -1,0 +1,184 @@
+
+
+--- LOGISTICA ---
+
+Procedimiento
+Logística
+Objetivo 
+Preparar y embalar el producto de acuerdo a los pedidos enviados por el departamento de ventas.
+Alcance
+Este procedimiento tiene el alcance desde la recepción de los pedidos enviados por el departamento de call center hasta la entrega de los productos para envialo por proveedor de transporte o transporte propio. 
+Campo de aplicación
+La aplicación del presente procedimiento corresponde a los puestos que se indican a continuación:
+Coordinador de logística
+Auxiliar de logística
+Asistente financiero
+Responsabilidades y autoridades
+Coordinador de logística
+Responsable del control de los ingresos y egresos de productos dentro del área de bodega
+Responsable de verificar el envío de los productos según lo indicado en los pedidos. 
+Ingresar en el sistema la información de los pedidos para elaborar la cotización.
+Elaboración de listado de envío a las tiendas. 
+Coordinación del trabajo del personal de logística. 
+Asesor de logística
+Ingreso y egreso de productos a bodega
+Preparar los productos de acuerdo a pedidos 
+Elaboración de guías en el sistema de proveedor
+Entrega de productos a tiendas o cliente en vehículos de la empresa
+Asistente financiero
+Recepción de pedidos posterior al envío de los productos 
+Normativa específica
+Recepción de pedidos diarios
+En horario de 9:00 a 10:00 se debe de bajar los pedidos de ventas por parte de call center.
+Cada 3 horas se puede bajar pedidos hasta las 14:00 hrs de lunes a viernes. 
+El día sabado  se recepciona pedidos hasta las 10:00 hrs.
+Extracción, revisión y verificación de productos
+Cada persona dentro de bodega tiene un sello personal, el cual sirve para registrar en cada pedido quien fue la persona que extrajo el producto del área de almacén, quien prepara-empaca el producto y quien verifica que el producto sea acorde a lo indicado dentro del pedido. 
+ Registro de salida de productos de bodega
+Cada vez que sale un producto que será enviado por el proveedor de transporte, este debe ser registrado dentro del sistema de EP-System 
+Para los productos que son enviados por mensajería de la empresa, se registra al momento de regresar el mensajero o piloto que haya entregado el producto. 
+Descripción del procedimiento
+FLUJOGRAMA
+Registro:
+FT-RE-01	Reporte de Reclamo
+FT-RE-02	Reporte de Garantías
+Anexos
+Anexo A
+Formulario “reporte de reclamo” FT-RE-01
+Anexo B
+Formulario “reporte de reclamo” FT-RE-02
+ANEXO C
+Formato de Garantía
+
+
+--- RECLAMOS ---
+
+Procedimiento
+Atención de reclamos
+Objetivo 
+Establecer  las actividades que se realizan para la atención de reclamos de clientes.
+Alcance
+Este procedimiento tiene el alcance desde la recepción del reclamo de garantía hasta el la aceptación y cambio de la pieza defectuosa o negación de la garantía por no cumplir con requisitos. 
+Campo de aplicación
+La aplicación del presente procedimiento corresponde a los puestos que se indican a continuación:
+Asesor de Call Center
+Asesor de ventas de tienda
+Gerente de operaciones
+Supervisor de ventas/call center
+Responsabilidades y autoridades
+Supervisor de ventas/call center
+Responsable de autorizar o denegar la garantía de un cliente
+Llevar un registro sobre las garantías solicitadas por el cliente FT-RE-02
+Reportar mensualmente sobre reclamos y garantías aceptadas al gerente de operaciones.
+Consultar al gerente de operaciones en casos de duda. 
+Asesor de Call Center
+Atender al cliente para la garantía
+Recepción de fotografías y el formulario reclamo de garantía  para traslado al supervisor de ventas
+Registrar en el formulario “reclamo de garantía” los datos del cliente.
+Asesor de ventas 
+Atención al cliente sobre las garantías presentadas en tienda
+Toma de fotografía sobre el daño existente 
+Recepción de fotografías y el formulario reclamo de garantía  para traslado al supervisor de ventas
+Registrar en el formulario “reclamo de garantía” los datos del cliente.
+Gerente de operaciones
+Atender garantías que el supervisor tenga dudas de garantías
+Autorizar el envío de productos para su revisión a oficinas para revisar garantía
+Revisar las garantías cubiertas
+Normativa específica
+Atención de garantía en tienda
+Cuando un cliente se presente a una tienda y desee hacer un reclamo de garantía este debe contar con la factura o cotización entregada al momento de la compra
+Si el cliente lleva el producto para requerir la garantia, el asesor de ventas debe recibir la autorización del supervisor para hacer el cambio de la pieza dañada.
+Atención de garantía de ventas en línea
+Cuando un cliente llama para exigir la garantía de un producto, el asesor le debe enviar el reclamo de garantía (FT-RE-01) y solicita el envio de fotografías donde se pueda ver el daño del producto.
+Atención de garantía a mayoristas
+NO se aceptan reclamos de garantías de clientes que compraron su silla por medio de intermediarios.
+Solamente se atiende si el reclamo proviene directamente de la persona o empresa que realizo la compra.
+Canal de comunicación
+El chat “reclamo” es el canal de comunicación para enviar las fotografías y reclamo  de garantía a nivel institucional. Se prohibe otro uso de comunicación. 
+Registro de reclamo
+El asesor de call center/ventas debe registrar el reclamo de cliente en el formulario Reporte de reclamo FT-RE-02 y de este formulario extrae el No. de correlativo de dicho reclamo
+Contraseña de reclamo
+Si el formulario reclamo de garantía se recibe fisicamente, el asesor de ventas debe entregar la constancia “presentación del reclamo”,  que se encuentra en la parte baja del formulario FT-RE-01. 
+Si el formulario reclamo se recibe en forma virtual se le envía nuevamente el archivo con el No. de reclamo y fecha de recepción como evidencia del cliente de la recepción del reclamo por parte de la empresa. 
+Autorización de garantía
+El supervisor de ventas es el responsable de autorizar el cambio de las piezas con daño
+Debe registrar la autorización en el formulario en Reporte de Garantía FT-RE-02
+ Revisión de garantía 
+El gerente de operaciones es responsable de autorizar el envío de las pieza dañada oficinas para determinar si la pieza tiene garantía.
+Costos de envío de pieza para revisión de garantía
+Todo envío de piezas para revisión o reemplazo por garantía debe utilizar a cargo expreso como proveedor de mensajería.
+En casos donde sea necesario enviar la pieza para una revisión a las oficinas, el cliente es el responsable de sufragar el costo de envío & Itecsa será el responsable de sufragar el costo para el regreso de la pieza al cliente. 
+Descripción del procedimiento
+FLUJOGRAMA
+Registro:
+FT-RE-01	Reporte de Reclamo
+FT-RE-02	Reporte de Garantías
+Anexos
+Anexo A
+Formulario “reporte de reclamo” FT-RE-01
+Anexo B
+Formulario “reporte de reclamo” FT-RE-02
+ANEXO C
+Formato de Garantía
+
+
+--- VENTAS ---
+
+Procedimiento
+Ventas Call Center
+Objetivo 
+Determinar las actividades que se realizan para la venta de productos por medio de  la atención de los mensajes recibidos de los clientes a traves de los diferentes canales de ventas. 
+Alcance
+Este procedimiento tiene el alcance desde la recepción del mensaje del cliente hasta el envío del pedido hacia logística. 
+Campo de aplicación
+La aplicación del presente procedimiento corresponde a los puestos que se indican a continuación:
+Asesor de Call Center
+Asistente de Gerencia
+Supervisor de ventas/call center
+Gerente de operaciones
+Responsabilidades y autoridades
+Supervisor de ventas/call center
+Responsable de la coordinación de las actividades y resolución de dudas de  parte de los asesores de call center
+Llevar el control del asesor de call center que esta de turno en horas y días fuera de oficina
+Designa a la persona de back up que sustituye o apoya al asesor de call center en turno en caso que sea necesario.
+Asistente de gerencia
+Responsable de llevar el control de las ventas realizadas.
+Asesor de Call Center
+Atender  los mensajes enviados por el cliente en cualquiera de las redes sociales.
+Atender los mensajes en horario y días inhabiles según programación de turno.
+Verificar que el producto solicitado este correcto así también los datos personales y dirección de entrega (tienda o lugar designado por el cliente)
+Informar en el chat de ventas, el Número de pedido.
+Gerente de operaciones
+Revisar diariamente las ventas realizadas del día anterior y fines de semana
+Analizar las razones de una devolución de un producto x parte del cliente
+Autorizar cualquier requerimiento distinto a lo establecido dentro del proceso de ventas. 
+Normativa específica
+ Atención de mensaje
+Se realiza una programación mensual sobre que asesor de call center será el responsable de asignar los mensajes al grupo de call center. 
+Esta programación del mes se comunica una semana antes del mes anterior. 
+La asignación de mensaje a cada uno de los asesores de call center se hará de uno a uno hasta cerrar el circulo e iniciar de nuevo. 
+Atención de mensaje en horario y días inhabiles.
+Se define  como hora inhabil de 18:00 a 23:00 de lunes a viernes.
+Se define como día inhábil desde el día  sabado de 13:00 a 23:00 y domingo de 09:00 a 23:00 horas, además de días festivos. 
+El supervisor de ventas designa y lleva el control del asesor de call center responsable de la atención de mensajes que se recibien en horas y días  inhabiles.
+Esta designación se realiza por semana.  
+En casos que la cantidad de mensajes recibidos sea excesivo en horario o días inhabiles, el asesor de call center de turno debe informar de esta situación a la supervisor de ventas. 
+El supervisor de ventas coordinará con el asesor de call center asignado como back up para apoyar en la atención de mensajes. Este apoyo será por un período de 2 horas, esto con la finalidad de disminuir la carga de mensajes sin atender. 
+En caso que la cantidad de mensajes siga constante, el supervisor de ventas designará por otras 2 horas más el apoyo. 
+Registro de ventas diarias
+El asesor  de call center al momento de confirmar una venta, debe escribir en el chat del  grupo “ ventas y call center ”  el No. de pedido.
+ Verificación de existencia en el sistema 
+Al momento que un asesor de call center tenga alguna duda sobre la información que brinda el sistema sobre la existencia de un producto, se debe comunicar con el coordinador de bodega para confirmar que la información que refleja el sistema es la correcta. 
+Seguimiento a la cotizaciones enviadas
+Si dentro de un período de 24 horas posterior de haber enviado el mensaje o cotización al cliente no se ha recibido respuesta, el asesor de call center debe comunicarse con este cliente con el propósito de realizar la labor de ventas para que adquiera el producto cotizado. Esta cotización se realizará en un termino de 3 días y al no recibir la cotización, se asumirá que el cliente no desea el producto y se finaliza el seguimiento. 
+Descripción del procedimiento
+Flujogramas
+Registros
+chatbot
+Reporte “guías”
+Registro “Shopify”
+Anexos
+Anexo 1.  Sistema “Chatbot
+Anexo 2. Archivo “guías”
+Anexo 3. Sistema “Shopify”
+Anexo 4.  Instructivo seguimiento de confirmación
