@@ -1,5 +1,5 @@
 from flask import Flask, request, Response
-import openai
+from openai import OpenAI
 import os
 from dotenv import load_dotenv
 
@@ -7,8 +7,8 @@ load_dotenv()
 
 app = Flask(__name__)
 
-# Carga tu API Key de OpenAI
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Inicializa el cliente OpenAI
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 @app.route("/webhook", methods=["POST"])
 def webhook():
@@ -27,7 +27,7 @@ def webhook():
 
 def responder_con_kai(mensaje):
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "Eres Kai, el asistente de Kanguro GT. Ayudas a los clientes con sus dudas sobre sillas, pedidos y soporte."},
