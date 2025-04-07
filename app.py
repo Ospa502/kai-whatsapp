@@ -39,4 +39,6 @@ def responder_con_kai(mensaje):
         return "Hubo un error procesando tu mensaje. Intenta más tarde."
 
 if __name__ == "__main__":
-    app.run(debug=True)
+import os
+port = int(os.environ.get("PORT", 5000))
+app.run(host="0.0.0.0", port=port)
