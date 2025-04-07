@@ -28,7 +28,7 @@ def webhook():
 def responder_con_kai(mensaje):
     try:
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",  # puedes cambiar a gpt-4 si tienes acceso
+            model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "Eres Kai, el asistente de Kanguro GT. Ayudas a los clientes con sus dudas sobre sillas, pedidos y soporte."},
                 {"role": "user", "content": mensaje}
@@ -36,6 +36,7 @@ def responder_con_kai(mensaje):
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
+        print(f"❌ ERROR en OpenAI: {e}")
         return "Hubo un error procesando tu mensaje. Intenta más tarde."
 
 
