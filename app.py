@@ -36,7 +36,7 @@ def responder_con_kai(mensaje):
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
-        print(f"❌ ERROR en OpenAI: {e}")
+        print(f"❌ ERROR en OpenAI: {e}", flush=True)
         return "Hubo un error procesando tu mensaje. Intenta más tarde."
 
 
